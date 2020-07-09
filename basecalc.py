@@ -1,5 +1,4 @@
-# BaseCalc is a basic calculator
-# #shumontheshaman #0709200232
+#BaseCalc is a basic calculator
 
 # Add Function
 def add(num1, num2):
